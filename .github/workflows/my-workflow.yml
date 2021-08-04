@@ -1,3 +1,7 @@
+# Workflow files are the recipe for task automation. 
+# This is where actions are placed if I want to use them for a task.
+
+
 # This is a basic workflow to help you get started with Actions
 
 name: CI
